@@ -43,7 +43,7 @@ I’m always open to collaborating on new ideas and projects—let's connect and
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/rohit-kumar-4968a327a" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-kumar-4968a327a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin logo"  />
     <img width="5" />
   </a>
