@@ -28,21 +28,12 @@ I’m always open to collaborating on new ideas and projects—let's connect and
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=haskell" height="40" alt="Bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="Kali logo"  />
 </div>
 
 ###
@@ -52,15 +43,15 @@ I’m always open to collaborating on new ideas and projects—let's connect and
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/harshit-srivastava-945b59200" target="_blank">
+  <a href="www.linkedin.com/in/rohit-kumar-4968a327a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin logo"  />
     <img width="5" />
   </a>
-  <a href="https://twitter.com/jae_the_me" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="twitter logo"  />
+  <a href="https://www.instagram.com/rohit_kumar0801/?next=%2F&hl=en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="insta logo"  />
     <img width="5" />
   </a>
-  <a href="mailto:harshittsrivastava778@gmail.com" target="_blank">
+  <a href="mailto:rk2857696@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="gmail logo"  />
     <img width="5" />
   </a>
